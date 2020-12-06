@@ -1,0 +1,53 @@
+
+.book_now{
+    position: absolute;
+	top: 4vh;
+    left: 10;
+    width: 60%;
+	background-color:#1773eb;
+	color: #fff;
+	padding: 1% 1% 1% 1%;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 1.5vw;
+}
+
+
+.tag{
+	position: absolute;
+	top: 5vh;
+	left: 32%;
+	font-family: 'Dancing Script', cursive;
+	color: #000000;
+	font-size: 4em;
+	
+}
+
+
+.card-room{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top:10vh;
+    height: 15vh;
+    width:60vw;
+    margin-left: 21%;
+}
+
+
+.tables-s{
+
+    color: black;
+    margin: auto;
+    margin-top:230px;
+    margin-left: 21%;
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.label-r{
+    font-family: 'Dancing Script';
+    font-size: 1.5em;
+    color: #555;
+    font-weight: 700;
+}

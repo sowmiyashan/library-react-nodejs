@@ -1,0 +1,60 @@
+.picture{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 51.3vw;
+}
+
+.card-room-u{
+    
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    top:10vh;
+    height: 15vh;
+    width:20vw;
+    margin-left: 21%;
+}
+
+.label-n{
+
+    text-align: center;
+    padding-top: 25px ;
+    padding-left: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+.card-room-t{
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    top:10vh;
+    height: 15vh;
+    width:20vw;
+    margin-left: 61%;
+}
+
+.tables{
+
+    color: white;
+    margin: auto;
+    margin-top: 230px;
+    margin-left: 21%;
+    width: 60%;
+    background-color: rgba(0,0,0,0.7);
+}
+.buttons{
+
+    background-color: #4da6ff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+
+}
+table,th,tr
+{
+    padding: 10px;
+}

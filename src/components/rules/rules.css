@@ -1,0 +1,25 @@
+.bg-img-r {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 60vw;
+  }
+  
+  .container-r {
+    border: 1px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.7);
+    width: 750px;
+    text-align: left;
+    border-radius: 10px;
+    color: white;
+    
+  }
+
+.title {
+    color: white;
+    text-align: center;
+    top:4%;
+}
